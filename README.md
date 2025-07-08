@@ -47,9 +47,11 @@ This project presents a deep learning-based system for real-time pothole detecti
 
 - **Streamlit UI**  
   Displays original and annotated outputs side-by-side, along with adjustable detection threshold and real-time statistics.
+![Picture1](https://github.com/user-attachments/assets/35a88e78-e09a-4999-a6df-6c30db4a2c23)
 
-![System Architecture](![Picture1](https://github.com/user-attachments/assets/5498d62f-d08c-4c64-ae50-97c01b7d118d)
-)
+
+
+
 
 ---
 
@@ -67,16 +69,16 @@ The system was evaluated on a validation dataset and achieved the following perf
 ## Sample Outputs
 
 ### Image Detection  
-![Image Detection](![Screenshot 2025-07-08 195847](https://github.com/user-attachments/assets/2d332a08-df3c-4e02-a94d-bc804fc35bdc)
-)
+![Screenshot 2025-07-08 195847](https://github.com/user-attachments/assets/65fba256-6f62-4af5-b96c-e0cf9e8f9faa)
+
 
 ### Video Detection  
-![Video Detection](![Screenshot 2025-07-08 195902](https://github.com/user-attachments/assets/dd2a04a0-ef3c-4156-9601-0cf82cf2ee0d)
-)
+![Screenshot 2025-07-08 195902](https://github.com/user-attachments/assets/759bef41-b713-41f5-9769-336bbf6d2c8f)
+
 
 ### Webcam Detection  
-![Webcam Detection](![Screenshot 2025-07-08 200334](https://github.com/user-attachments/assets/db51fe4a-f027-4188-9a58-1c548de96876)
-)
+![Screenshot 2025-07-08 200334](https://github.com/user-attachments/assets/2e100704-f42b-42aa-a6b8-85b985cd884e)
+
 
 ---
 
